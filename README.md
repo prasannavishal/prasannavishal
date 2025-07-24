@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...PYTHON DVELOPMENT
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...SOFTWARE ENGINEERING ROLE
-- 📫 How to reach me ...prasannavishal@gmial.com
+- 📫 How to reach me ...prasannavishal@gmail.com
 - 😄 Pronouns: ..vishal
 - ⚡ Fun fact: ...
 
